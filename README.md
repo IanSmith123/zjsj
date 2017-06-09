@@ -22,24 +22,16 @@ zjsj,中文名战机世界，一款基于cocos2d游戏开发引擎构建的飞�
 
 ![](screenshot/scoreScene.png)
 
-关于场景:
-
-![](screenshot/aboutScene.png)
-
-
-
-
 ## 0x02 说明
-文件夹`Resources`包含项目所有需要的代码文件
+文件夹 `Resources`包含项目所有需要的代码文件
 
 文件夹 `Classes` 包含项目所需要的包括图片，音乐等资源文件
 
 ## 0x03 团队信息
-关于场景:
+
 ![关于场景](screenshot/aboutScene.png)
 
-
-
 Les1ie
+
 2017年6月9日14:15:38
 
