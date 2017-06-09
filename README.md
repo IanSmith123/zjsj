@@ -1,19 +1,30 @@
 ## 0x00 简介
-zjsj,中文名战机世界，一款基于cocos2d游戏开发引擎构建的飞机大作战游戏。 研发实战课程项目
+研发实战课程项目
+
+zjsj,中文名战机世界，一款基于cocos2d游戏开发引擎构建的飞机大作战游戏。
 
 使用cocos2d-x 3.14.1版本+ vs2015完成开发
 
 ## 0x01 游戏截屏
 菜单场景:
-![菜单场景](screenshot/menuScene.png)
+
+![](screenshot/menuScene.png)
+
 游戏场景:
-![游戏场景](screenshot/gameScene.png)
+
+![](screenshot/gameScene.png)
+
 设置场景:
-![设置场景](screenshot/settingScene.png)
+
+![](screenshot/settingScene.png)
+
 得分场景:
-![得分榜场景](screenshot/scoreScene.png)
+
+![](screenshot/scoreScene.png)
+
 关于场景:
-![关于场景](screenshot/aboutScene.png)
+
+![](screenshot/aboutScene.png)
 
 
 
